@@ -36,4 +36,4 @@ Universal **KMSPico Toolkit** activation toolkit utilizing digital license and K
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.   
+> This repository is provided for educational and utility purposes only. Use at your own discretion.    
